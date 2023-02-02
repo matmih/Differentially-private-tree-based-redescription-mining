@@ -18,7 +18,7 @@ import weka.core.*;
 /**
  *
  * This class is developed by the authors of the manuscript: "Embedding differential privacy in decision tree
-algorithm with different depths" by authors Xuanyu BAI , Jianguo YAO*, Mingxuan YUAN, Ke DENG.
+algorithm with different depths" by authors Xuanyu BAI , Jianguo YAO*, Mingxuan YUAN, Ke DENG, Xike Xie and Haibing Guan.
 *It contains measures for differentially private algorithms DecTreeWholeDP and DecTreeExpMech.
 *Matej Mihelcic implemented minor modifications to make the resulting redescription mining algorithm differentially private
  */

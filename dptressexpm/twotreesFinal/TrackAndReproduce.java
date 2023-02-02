@@ -25,7 +25,7 @@ import weka.core.converters.ConverterUtils;
  *
  * @author Matej Mihelcic, University of Eastern Finland implemented the dptressxpm.twotreesFinal package as an extension of the 
  * original tree package decTreeWholeDP created for the manuscript: "Embedding differential privacy in decision tree
-algorithm with different depths" by authors Xuanyu BAI , Jianguo YAO*, Mingxuan YUAN, Ke DENG,
+algorithm with different depths" by authors Xuanyu BAI , Jianguo YAO*, Mingxuan YUAN, Ke DENG, Xike Xie and Haibing Guan.
  */
 public class TrackAndReproduce {
     public static void main(String [] args){
